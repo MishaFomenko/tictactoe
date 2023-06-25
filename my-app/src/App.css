@@ -1,4 +1,38 @@
-.App {
+
+td {
+  border: 3px solid;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 4em;
+}
+
+.color1 {
+  color: green;
+}
+
+.color2 {
+  color: blue;
+}
+
+.tr {
+  
+  height: 100vh; /* Set the container height to the full viewport height */
+}
+
+button {
+background-color: orange;
+width: 330px;
+height: 50px;
+font-size: 2em;
+}
+
+p {
+  font-size: 2em;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +69,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
